@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rishurajportfolio.netlify.app/sitemap.xml
